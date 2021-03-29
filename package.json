@@ -1,8 +1,8 @@
 {
   "name": "ember-cli-rails-addon",
-  "version": "0.10.0",
+  "version": "30.3.2021",
   "description": "Addon for configuring ember-cli-rails (the ruby gem) with the ember app(s) it wraps.",
-  "repository": "https://github.com/rondale-sc/ember-cli-rails-addon",
+  "repository": "https://github.com/m-harnish/ember-cli-rails-addon",
   "main": "index.js",
   "scripts": {
     "test": "qunit -c index.js -t tests/*-test.js"
@@ -13,6 +13,6 @@
   "author": "Jonathan Jackson",
   "license": "ISC",
   "devDependencies": {
-    "qunit": "^0.7.7"
+    "qunit": "^2.14.1"
   }
 }
